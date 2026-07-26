@@ -63,23 +63,6 @@ public:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.demolab.com/api?username=DanielaAlvarez-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.demolab.app/api/top-langs/?username=DanielaAlvarez-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DanielaAlvarez-Dev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🎯 Current Goals
 
 - [ ] 🧱 Master **Data Structures & Algorithms** in C++

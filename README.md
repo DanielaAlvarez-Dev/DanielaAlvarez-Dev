@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Daniela+Álvarez%5D+%F0%9F%91%8B;Systems+Engineering+Student;C%23+%7C+C%2B%2B+%7C+HTML+Developer;Always+learning+something+new...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Daniela+Alvarez+%F0%9F%91%8B;Systems+Engineering+Student;C%23+%7C+C%2B%2B+%7C+HTML+Developer;Always+learning+something+new...)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=00d9ff&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=DanielaAlvarez-Dev&style=flat-square&color=00d9ff&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
@@ -67,14 +67,14 @@ public:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DanielaAlvarez-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaAlvarez-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DanielaAlvarez-Dev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -105,7 +105,7 @@ public:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-nazaret-irias-alvarez-bb673a409 )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-nazaret-irias-alvarez-bb673a409)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dairias@uamv.edu.ni)
 
 
@@ -115,7 +115,7 @@ public:
 
 <div align="center">
 
-*"The best way to predict the future is to invent it." — Alan Kay*
+*"Every expert was once a beginner." — Helen Hayes*
 
 ⭐ **If you find something useful here, consider leaving a star!** ⭐
 
